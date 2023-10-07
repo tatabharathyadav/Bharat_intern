@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>contact me</title>
+        <style>
+            body{
+               background-color: rgba(68, 144, 146, 0.639);
+                
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h2>Contact Me</h2>
+
+            <table border="1" style="width: 80%;">
+                <tr>
+                    <th></th>
+                    <th>Email</th>
+                    <th>Phone Number</th>
+                </tr>
+                <tr>
+                    <td>Personal</td>
+                    <td>tatabharathyadav@gmail.com</td>
+                    <td>123456-7890</td>
+                </tr>
+            </table>
+            <h2>
+                find me on
+            </h2>
+            <a href="">linkedin  </a><br><br>
+            <a href="">github</a><br><br>
+            <a href="">instagram</a><br><br>
+            <a href="">youtube</a>
+        </center>
+    </body>
+</html>

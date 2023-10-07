@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>frame2</title>
+        <style>
+            body
+            {
+                background-image:url("main.png");
+                background-size:cover;
+                background-repeat:no repeat;
+                border:2px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+        <h1>Hi ,I am  TATA  BHARAT  YADAV </h1>
+        <h1>A Web Developer in training</h1>
+        <h2>Welcome to my portfolio</h2>
+        </center>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <titel></titel>
+        <style>
+            body{
+                
+             background-color: rgba(68, 165, 168, 0.683);
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+        <p>"As a driven and aspiring software engineer, I bring a unique blend of 
+            creativity and technical prowess to the table. My journey through academia
+             and hands-on projects has not only equipped me with a strong foundation in
+              software development but also instilled in me the art of continuous learning
+               and adaptability. My passion lies in crafting efficient and scalable solutions,
+                and I thrive in dynamic, collaborative environments. With a focus on innovation 
+                and a knack for problem-solving, I am poised to contribute fresh perspectives and 
+                a strong work ethic to any team. I am eager to join your organization, where I can 
+                apply my skills and grow alongside a forward-thinking community of professionals
+                 dedicated to pushing the boundaries of technology."</p>
+                 
+                 <h2>Education Qualifications</h2>
+
+            
+
+<table border="1">
+    <tr>
+        <th></th>
+        <th>Collage Name</th>
+        <th>Percentage</th>
+    </tr>
+    <tr>
+        <th>SSC</th>
+        <td>Sasi EM high school</td>
+        <td>10 grade points</td>
+    </tr>
+    <tr>
+        <th>Intermediate</th>
+        <td>Tirumala junior collage</td>
+        <td>97.3%</td>
+    </tr>
+    <tr>
+        <th>Btech</th>
+        <td>SRKR</td>
+        <td>8.74 CGPA</td>
+    </tr>
+    </table>
+    </center>
+    </body>
+</html>

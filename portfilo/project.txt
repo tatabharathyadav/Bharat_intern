@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>
+            portfilo
+        </title>
+        <style>
+            body{
+              background-color:rgba(68, 150, 152, 0.705);
+                
+            }
+        </style>
+    </head>
+    <body>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Online Bus reservation system</h3>
+                    <p>The "Online Bus Reservation Project" is a user-friendly
+                         web application that simplifies the process of booking bus tickets, 
+                         offering travelers a convenient and efficient way to plan their journeys</p>
+                </li>
+                <li>
+                    <h3>Home page of Netflix</h3>
+                    <p>The "Netflix Homepage Project" is a meticulously crafted web page, 
+                        designed with HTML and CSS, that replicates the familiar and engaging
+                         user interface of Netflix's home screen.</p>
+                </li>
+                <li>
+                    <h3>Temperature converter</h3>
+                    <p>The "Temperature Converter Homepage Project" is a user-friendly
+                         web application built to effortlessly convert temperatures between 
+                         Celsius, Fahrenheit, and Kelvin, providing a versatile tool for 
+                         meteorologists and enthusiasts.</p>
+                </li>
+            </ul>
+    </body>
+</html>
